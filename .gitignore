@@ -1,0 +1,5 @@
+*/*.md
+.exercism
+test.scm
+Makefile
+*.ss
